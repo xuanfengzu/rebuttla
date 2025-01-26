@@ -5,4 +5,6 @@ In the lower left corner of the image:
 ![image](./inference.jpg)
  there is a road sign with the left side marked as south and the right side as north, so the photographer is facing west and the sun is in the west, so this was taken at sunset.
 
+This types of cases in our benchmark do not require other continuous views to determine the answer. The only one correct answer can be obtained from applying active perception.
+
 As for why this is active perception, imagine that if the initial scene given to the model is a photo of only the sun, the model needs to move its perspective to find relevant clues (in this scene, the road sign) to answer the corresponding question.
