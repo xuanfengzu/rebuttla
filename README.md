@@ -1,6 +1,6 @@
 ![image](./origin.jpg)
-As for the problem you mentioned, the image shown above is a typical example of problems of this kind. As for the problem "Is this a sunset or a sunrise?", it can be inferred from the right-down corner of the image.
-In the lower-left corner:
+As for the problem you mentioned, the image shown above is a typical example of problems of this kind. As for the problem "Is this a sunset or a sunrise?", it can be inferred from the lower-right of the image.
+In the lower-right:
 ![image](./inference.png)
 ![image](./inference.jpg)
  there’s a road sign indicating "South" on the left and "North" on the right. This means the photographer is facing west, and since the sun sets in the west, this photo was taken during a sunset.
