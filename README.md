@@ -3,8 +3,7 @@ As for the problem you mentioned, the image shown above is a typical example of 
 In the lower-right:
 ![image](./inference.png)
 There is a road sign:
-<!-- ![image](./inference.jpg) -->
-<div align="center"><image src="./inference.jpg" width=80%></image></div>
+![image](./inference2.png)
  there’s a road sign indicating "South" on the left and "North" on the right. This means the photographer is facing west, and since the sun sets in the west, this photo was taken during a sunset.
 
 For cases like this in our benchmark, there is no need for additional continuous views to determine the answer. The correct answer can be obtained simply by applying active perception.
